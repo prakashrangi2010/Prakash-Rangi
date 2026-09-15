@@ -1,6 +1,6 @@
 ﻿<div align="center">
   <h1>Hi there, I''m Prakash Rangi 👋</h1>
-  <p><strong>🎓 3rd Year BCA (Cybersecurity) Student • Full-Stack Developer • AI Security Researcher</strong></p>
+  <p><strong>🎓 3rd Year BCA (Cloud Computing & Cyber Security) Student • Full-Stack Developer • AI & Cloud Security Researcher</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/prakash-rangi-10637b243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,11 +14,12 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Pursuing **BCA in Cyber Security (3rd Year)** with a deep focus on applied cybersecurity, defensive AI, and network security.
-- 🛡️ **Cybersecurity Focus:** Zero-Trust Architectures (ZTA), Audio & Biometric Deepfake Forensics, Identity Security, JWT/OAuth Authentication, and SOC Operations.
-- 💻 **Engineering Expertise:** Full-Stack Web Development, Real-Time WebSockets, RAG AI Systems, and Distributed Backends.
-- 🔭 **Current Work:** Developing **VoxCipher**, an adaptive voice defense platform against telephony deepfakes and executive CEO fraud.
-- ⚡ **Goal:** Building resilient, production-ready software systems that solve critical cybersecurity and AI challenges.
+- 🎓 **Education:** Pursuing **BCA in Cloud Computing & Cyber Security (3rd Year)** — focused on building resilient cloud infrastructure, defensive AI, and secure zero-trust software architectures.
+- ☁️ **Cloud Computing Expertise:** Cloud Architecture (AWS, Google Cloud, Firebase), Containerization (Docker), Infrastructure as Code (Terraform), Reverse Proxies (Nginx), and CI/CD Automation.
+- 🛡️ **Cybersecurity Focus:** Zero-Trust Architecture (ZTA), Audio & Biometric Deepfake Forensics, Identity & Access Management (JWT/OAuth), Network Security, and SOC Operations.
+- 💻 **Engineering Stack:** Full-Stack Web Development, Real-Time WebSockets, Retrieval-Augmented Generation (RAG) AI Systems, and Distributed Backends.
+- 🔭 **Current Work:** Developing **VoxCipher**, an enterprise-grade voice defense platform protecting against telephony deepfakes and executive CEO fraud.
+- ⚡ **Vision:** Combining cloud scalability with robust cybersecurity to create tamper-proof, production-grade applications.
 
 ---
 
@@ -28,7 +29,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/prakashrangi2010/VoxCipher">🛡️ VoxCipher – Voice Impersonation Defense</a></h3>
-      <p><strong>Flagship Project:</strong> An enterprise-grade Zero-Trust Voice Defense & Telephony SOC platform detecting and intercepting AI voice clones, codec attacks, and executive fraud in real time.</p>
+      <p><strong>Flagship Project:</strong> An enterprise Zero-Trust Voice Defense & Telephony SOC platform detecting and intercepting AI voice clones, telephony codec attacks, and executive fraud in real time.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -85,13 +86,26 @@
 
 ### 🛠️ Tech Stack & Skills
 
-#### 🔐 Cybersecurity & Real-Time Security
+#### ☁️ Cloud Computing & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+#### 🔐 Cyber Security & Defenses
 <p>
   <img src="https://img.shields.io/badge/Zero--Trust_Architecture-0284C7?style=for-the-badge&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Audio_Deepfake_Defense-10B981?style=for-the-badge&logo=radar&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT_&_Bcrypt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets_Security-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Network_Security-D32F2F?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk_&_SOC-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
 #### 💻 Programming Languages
@@ -125,15 +139,11 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-#### ☁️ Cloud, Databases & DevOps
+#### 🗄️ Databases & Storage
 <p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_&_GitHub-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
